@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Blocks /> should match snapshot 1`] = `
+<ul
+  className="MuiList-root MuiList-padding"
+  divider={true}
+  style={
+    Object {
+      "flex": 1,
+      "padding": 0,
+    }
+  }
+>
+  <li
+    className="MuiListItem-root makeStyles-root-1"
+    disabled={false}
+  >
+    <h6
+      className="MuiTypography-root makeStyles-heading-3 MuiTypography-h6"
+    >
+      001
+    </h6>
+    <p
+      className="MuiTypography-root makeStyles-content-2 MuiTypography-body1"
+    >
+      dataA
+    </p>
+  </li>
+  <li
+    className="MuiListItem-root makeStyles-root-1"
+    disabled={false}
+  >
+    <h6
+      className="MuiTypography-root makeStyles-heading-3 MuiTypography-h6"
+    >
+      002
+    </h6>
+    <p
+      className="MuiTypography-root makeStyles-content-2 MuiTypography-body1"
+    >
+      dataB
+    </p>
+  </li>
+</ul>
+`;

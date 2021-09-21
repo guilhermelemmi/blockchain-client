@@ -1,0 +1,5 @@
+export const ACTION_STATUSES = {
+  START: "START",
+  SUCCESS: "SUCCESS",
+  FAILURE: "FAILURE",
+};
